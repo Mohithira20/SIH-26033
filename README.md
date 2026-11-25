@@ -62,6 +62,9 @@ It focuses on improving accessibility, transparency, demand awareness, and deliv
 
 The approach emphasizes simplicity, reliability, and practical solutions to real-world agricultural challenges.
 
+<img width="982" height="670" alt="image" src="https://github.com/user-attachments/assets/3ffed802-bdaf-4412-ad3a-75b03cab7334" />
+
+
 
 ## Feasibility and Viability
 
